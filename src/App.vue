@@ -15,17 +15,17 @@ import HelloWorld from './components/HelloWorld.vue'
       >
     </a>
     <a
-      href="https://vuejs.org/"
+      href="https://standardjs.com/"
       target="_blank"
     >
       <img
-        src="./assets/vue.svg"
-        class="logo vue"
-        alt="Vue logo"
+        src="./assets/standardjs.svg"
+        class="logo standardjs"
+        alt="Standard JS logo"
       >
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue 3 + Standard JS" />
 </template>
 
 <style scoped>

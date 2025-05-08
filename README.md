@@ -1,5 +1,39 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4e57968-eb20-4de8-91c4-001474804566/deploy-status)](https://vite-vue3-ts-standard.netlify.app/)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+> English | [한국어](./README.ko.md)  
+
+A lightweight starter template for Vue 3 with TypeScript and Vite. This template includes:
+
+- Vue 3.5 with TypeScript support
+- Vite for fast development and building
+- ESLint 9 with Standard JS rules
+- Vue plugin for ESLint
+- TypeScript configuration optimized for Vue 3
+
+## Getting Started
+
+```bash
+# Install dependencies
+pnpm install
+
+# Start development server
+pnpm dev
+
+# Build for production
+pnpm build
+
+# Preview production build
+pnpm preview
+
+# Lint code
+pnpm lint
+```
+
+## Features
+
+- Modern tooling with minimal configuration
+- Standard JS code style enforcement
+- Type safety with TypeScript
+- Fast HMR with Vite

@@ -25,9 +25,9 @@ const count = ref(0)
   <p>
     Check out
     <a
-      href="https://vuejs.org/guide/quick-start.html#local"
+      href="https://github.com/Seungwoo321/vite-vue3-ts-standard"
       target="_blank"
-    >create-vue</a>, the official Vue + Vite starter
+    >vite-vue2-ts-standard</a>,  the official Vue + Vite starter
   </p>
   <p>
     Learn more about IDE Support for Vue in the
