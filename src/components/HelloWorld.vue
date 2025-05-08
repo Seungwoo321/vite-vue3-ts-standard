@@ -27,7 +27,7 @@ const count = ref(0)
     <a
       href="https://github.com/Seungwoo321/vite-vue3-ts-standard"
       target="_blank"
-    >vite-vue2-ts-standard</a>,  the official Vue + Vite starter
+    >vite-vue3-ts-standard</a>,  the official Vue + Vite starter
   </p>
   <p>
     Learn more about IDE Support for Vue in the
